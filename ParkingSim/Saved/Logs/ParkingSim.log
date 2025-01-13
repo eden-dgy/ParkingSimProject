@@ -1325,3 +1325,696 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.13-17.01.13:372][  1]LogSourceControl: Uncontrolled asset enumeration finished in 0.093599 seconds (Found 104 uncontrolled assets)
 [2025.01.13-17.01.13:457][  1]LogStreaming: Display: FlushAsyncLoading(74): 64 QueuedPackages, 0 AsyncPackages
 [2025.01.13-17.03.00:232][ 11]LogDerivedDataCache: /home/activdesign/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.13-17.10.47:579][743]LogDirectoryWatcher: Warning: inotify error: inotify_add_watch cannot watch folder /home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core (Out of inotify watches)
+[2025.01.13-17.10.47:579][743]LogDirectoryWatcher: Warning: inotify limits
+[2025.01.13-17.10.47:579][743]LogDirectoryWatcher: Warning:   max_queued_events: 16384
+[2025.01.13-17.10.47:579][743]LogDirectoryWatcher: Warning:   max_user_instances: 128
+[2025.01.13-17.10.47:579][743]LogDirectoryWatcher: Warning:   max_user_watches: 65536
+[2025.01.13-17.10.47:579][743]LogDirectoryWatcher: Warning: inotify per-process stats
+[2025.01.13-17.10.47:581][743]LogDirectoryWatcher: Warning:   wireplumber (pid 2754) watches:2 instances:2
+[2025.01.13-17.10.47:581][743]LogDirectoryWatcher: Warning:   dbus-daemon (pid 2773) watches:5 instances:1
+[2025.01.13-17.10.47:581][743]LogDirectoryWatcher: Warning:   dbus-daemon (pid 3121) watches:1 instances:1
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   gnome-session-binary (pid 3159) watches:11 instances:2
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   gnome-shell (pid 3202) watches:17 instances:1
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   evolution-source-registry (pid 3329) watches:2 instances:1
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   goa-daemon (pid 3361) watches:1 instances:1
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   ibus-daemon (pid 3373) watches:2 instances:1
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   gsd-color (pid 3379) watches:1 instances:1
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   gsd-housekeeping (pid 3386) watches:2 instances:2
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   gsd-keyboard (pid 3387) watches:1 instances:1
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   gsd-media-keys (pid 3391) watches:1 instances:1
+[2025.01.13-17.10.47:582][743]LogDirectoryWatcher: Warning:   goa-identity-service (pid 3392) watches:1 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   gsd-power (pid 3394) watches:1 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   gsd-sound (pid 3419) watches:2 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   gsd-wacom (pid 3423) watches:1 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   gsd-xsettings (pid 3431) watches:60 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   evolution-calendar-factory (pid 3450) watches:1 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   gvfs-udisks2-volume-monitor (pid 3454) watches:2 instances:2
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   evolution-alarm-notify (pid 3482) watches:11 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   ibus-memconf (pid 3560) watches:1 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   ibus-extension-gtk3 (pid 3566) watches:2 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   ibus-x11 (pid 3571) watches:2 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   ibus-portal (pid 3575) watches:1 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   evolution-addressbook-factory (pid 3636) watches:1 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   gvfs-afc-volume-monitor (pid 3664) watches:1 instances:1
+[2025.01.13-17.10.47:583][743]LogDirectoryWatcher: Warning:   ibus-engine-simple (pid 3736) watches:1 instances:1
+[2025.01.13-17.10.47:629][743]LogDirectoryWatcher: Warning:   tracker-miner-fs-3 (pid 3742) watches:25741 instances:2
+[2025.01.13-17.10.47:630][743]LogDirectoryWatcher: Warning:   xdg-desktop-portal (pid 3797) watches:1 instances:1
+[2025.01.13-17.10.47:630][743]LogDirectoryWatcher: Warning:   xdg-desktop-portal-gnome (pid 3811) watches:67 instances:1
+[2025.01.13-17.10.47:630][743]LogDirectoryWatcher: Warning:   xdg-desktop-portal-gtk (pid 3954) watches:58 instances:1
+[2025.01.13-17.10.47:630][743]LogDirectoryWatcher: Warning:   gvfsd-trash (pid 3988) watches:43 instances:2
+[2025.01.13-17.10.47:630][743]LogDirectoryWatcher: Warning:   Discord (pid 4361) watches:5 instances:2
+[2025.01.13-17.10.47:631][743]LogDirectoryWatcher: Warning:   Discord (pid 4424) watches:3 instances:1
+[2025.01.13-17.10.47:632][743]LogDirectoryWatcher: Warning:   firefox (pid 4667) watches:1 instances:1
+[2025.01.13-17.10.47:633][743]LogDirectoryWatcher: Warning:   update-notifier (pid 5591) watches:19 instances:1
+[2025.01.13-17.10.47:633][743]LogDirectoryWatcher: Warning:   UnrealTraceServer (pid 5730) watches:1 instances:1
+[2025.01.13-17.10.47:633][743]LogDirectoryWatcher: Warning:   nautilus (pid 6081) watches:19 instances:1
+[2025.01.13-17.10.47:633][743]LogDirectoryWatcher: Warning:   gvfsd-recent (pid 6105) watches:1 instances:1
+[2025.01.13-17.10.47:633][743]LogDirectoryWatcher: Warning:   gnome-terminal-server (pid 6134) watches:1 instances:1
+[2025.01.13-17.10.47:716][743]LogDirectoryWatcher: Warning:   UnrealEditor (pid 6234) watches:36147 instances:1
+[2025.01.13-17.10.47:723][743]LogDirectoryWatcher: Warning:   UnrealEditor (pid 7549) watches:3162 instances:1
+[2025.01.13-17.10.47:723][743]LogDirectoryWatcher: Warning: Total inotify Watches:65403 Instances:49
+[2025.01.13-17.10.47:723][743]LogDirectoryWatcher: Warning: Current watch requests
+[2025.01.13-17.10.47:750][743]LogDirectoryWatcher: Warning:   /home/activdesign/Sources/Linux_Unreal_Engine_5.4.3/Engine/Content/: 955 watches (955 total dirs)
+[2025.01.13-17.10.47:750][743]LogDirectoryWatcher: Warning:   /home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/: 5 watches (9 total dirs)
+[2025.01.13-17.10.48:120][743]LogDirectoryWatcher: Warning:   /home/activdesign/Sources/Linux_Unreal_Engine_5.4.3/Engine/Plugins/: 35185 watches (35185 total dirs)
+[2025.01.13-17.10.48:120][743]LogDirectoryWatcher: Warning:   /home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/Collections/: 1 watches (1 total dirs)
+[2025.01.13-17.10.48:120][743]LogDirectoryWatcher: Warning:   /home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Developers/activdesign/Collections/: 1 watches (1 total dirs)
+[2025.01.13-17.10.48:120][743]LogDirectoryWatcher: Warning:   /home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Collections/: 1 watches (1 total dirs)
+[2025.01.13-17.10.48:121][743]LogDirectoryWatcher: Warning:   /home/activdesign/Sources/Linux_Unreal_Engine_5.4.3/Engine/Content/Localization: 106 watches (106 total dirs)
+[2025.01.13-17.10.48:121][743]LogDirectoryWatcher: Warning:   /home/activdesign/Sources/Linux_Unreal_Engine_5.4.3/FeaturePacks/: 1 watches (1 total dirs)
+[2025.01.13-17.10.48:121][743]LogDirectoryWatcher: Warning: Total UE inotify Watches:36255 WatchDescriptors:36255 Instances:8 
+[2025.01.13-17.10.48:468][745]LogSlate: Took 0.000044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.13-17.11.03:686][102]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.13-17.11.03:702][102]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.13-17.11.03:725][103]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.13-17.11.05:127][189]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.01.13-17.11.05:127][189]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.13-17.11.11:549][500]LogSlate: Window 'New Level' being destroyed
+[2025.01.13-17.11.11:584][500]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.13-17.11.11:606][500]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-17.11.11:606][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-17.11.11:606][500]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.01.13-17.11.11:608][500]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2025.01.13-17.11.11:608][500]LogWorldMetrics: [Deinitialize]
+[2025.01.13-17.11.11:608][500]LogWorldMetrics: [Clear]
+[2025.01.13-17.11.11:613][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.13-17.11.11:632][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.13-17.11.11:639][500]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.01.13-17.11.11:639][500]LogWorldMetrics: [Initialize]
+[2025.01.13-17.11.11:732][500]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.13-17.11.11:738][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.01.13-17.11.11:738][500]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.13-17.11.11:738][500]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,065ms to complete.
+[2025.01.13-17.11.26:690][923]LogSlate: Window 'Save Level As' being destroyed
+[2025.01.13-17.11.26:895][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.01.13-17.11.26:921][923]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.024697 seconds
+[2025.01.13-17.11.26:925][923]LogSavePackage: Moving output files for package: /Game/Maps/PrototypingMap
+[2025.01.13-17.11.26:925][923]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/PrototypingMap7627586628A547F294803A68247B99E0.tmp' to '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Maps/PrototypingMap.umap'
+[2025.01.13-17.11.26:978][923]LogFileHelpers: Saving map 'PrototypingMap' took 0.238
+[2025.01.13-17.11.26:978][923]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Maps/PrototypingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.13-17.11.26:983][923]LogWorld: UWorld::CleanupWorld for PrototypingMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-17.11.26:983][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-17.11.26:983][923]LogWorldMetrics: [Deinitialize]
+[2025.01.13-17.11.26:983][923]LogWorldMetrics: [Clear]
+[2025.01.13-17.11.26:986][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.13-17.11.26:987][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.01.13-17.11.26:990][923]LogAudio: Display: Audio Device (ID: 1) registered with world 'PrototypingMap'.
+[2025.01.13-17.11.26:990][923]LogWorldMetrics: [Initialize]
+[2025.01.13-17.11.27:071][923]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.13-17.11.27:076][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.13-17.11.27:077][923]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.13-17.11.27:077][923]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,055ms to complete.
+[2025.01.13-17.11.27:230][923]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-17.11.27:230][923]LogContentValidation: Enabled validators:
+[2025.01.13-17.11.27:230][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-17.11.27:230][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-17.11.27:230][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-17.11.27:230][923]LogContentValidation: Display: Validating asset /Game/Maps/PrototypingMap.PrototypingMap
+[2025.01.13-17.11.27:231][923]AssetCheck: /Game/Maps/PrototypingMap Validating asset
+[2025.01.13-17.11.30:424][101]LogSlate: Took 0.000043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.01.13-17.11.35:171][378]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.13-17.11.35:179][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.13-17.11.35:179][378]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.01.13-17.11.35:179][378]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.01.13-17.11.35:179][378]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrototypingMap
+[2025.01.13-17.11.35:182][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002200s)
+[2025.01.13-17.11.35:182][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrototypingMap.PrototypingMap to /Game/Maps/UEDPIE_0_PrototypingMap.PrototypingMap (0.002241s)
+[2025.01.13-17.11.35:186][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.01.13-17.11.35:187][378]LogWorldMetrics: [Initialize]
+[2025.01.13-17.11.35:188][378]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2025.01.13-17.11.35:211][378]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.01.13-17.11.35:211][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.13-17.11.35:211][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.13-17.11.35:211][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.13-17.11.35:211][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.13-17.11.35:211][378]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.13-17.11.35:211][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.13-17.11.35:211][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.13-17.11.35:211][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.13-17.11.35:211][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.13-17.11.35:211][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.13-17.11.35:211][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.13-17.11.35:211][378]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2025.01.13-17.11.35:212][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2025.01.13-17.11.35:471][378]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2025.01.13-17.11.35:479][378]LogAudioMixer: Display: Using Audio Hardware Device Comet Lake PCH cAVS Speaker + Headphones
+[2025.01.13-17.11.35:480][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.13-17.11.35:480][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.13-17.11.35:480][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.13-17.11.35:480][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2025.01.13-17.11.35:481][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.01.13-17.11.35:481][378]LogInit: FAudioDevice initialized with ID 2.
+[2025.01.13-17.11.35:481][378]LogAudio: Display: Audio Device (ID: 2) registered with world 'PrototypingMap'.
+[2025.01.13-17.11.35:481][378]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.13-17.11.35:482][378]LogLoad: Game class is 'BP_GameMode_C'
+[2025.01.13-17.11.35:483][378]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrototypingMap.PrototypingMap up for play (max tick rate 0) at 2025.01.13-18.11.35
+[2025.01.13-17.11.35:483][378]LogWorld: Bringing up level for play took: 0.000748
+[2025.01.13-17.11.35:484][378]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2025.01.13-17.11.35:543][378]PIE: Server logged in
+[2025.01.13-17.11.35:544][378]PIE: Play in editor total start time 0,37 seconds.
+[2025.01.13-17.11.35:544][378]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:555][379]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:590][380]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:614][381]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:629][382]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:639][383]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:650][384]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:660][385]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:677][386]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:693][387]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:710][388]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:728][389]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:744][390]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:760][391]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:777][392]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:794][393]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:810][394]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:827][395]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:843][396]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:860][397]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:877][398]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:893][399]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:911][400]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:927][401]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:944][402]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:962][403]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:977][404]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.35:994][405]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:010][406]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:027][407]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:043][408]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:060][409]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:077][410]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:094][411]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:110][412]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:127][413]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:143][414]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:160][415]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:177][416]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:194][417]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:210][418]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:227][419]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:243][420]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:260][421]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.11.36:277][422]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.206642
+[2025.01.13-17.11.36:293][423]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.398978
+[2025.01.13-17.11.36:314][424]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.618659
+[2025.01.13-17.11.36:328][425]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.746951
+[2025.01.13-17.11.36:344][426]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.884993
+[2025.01.13-17.11.36:360][427]LogBlueprintUserMessages: [VehiculeMovementComponent] -1.018833
+[2025.01.13-17.11.36:377][428]LogBlueprintUserMessages: [VehiculeMovementComponent] -1.142386
+[2025.01.13-17.11.36:394][429]LogBlueprintUserMessages: [VehiculeMovementComponent] -1.257934
+[2025.01.13-17.11.36:410][430]LogBlueprintUserMessages: [VehiculeMovementComponent] -1.156537
+[2025.01.13-17.11.36:427][431]LogBlueprintUserMessages: [VehiculeMovementComponent] -1.059485
+[2025.01.13-17.11.36:443][432]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.972388
+[2025.01.13-17.11.36:460][433]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.888911
+[2025.01.13-17.11.36:477][434]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.81571
+[2025.01.13-17.11.36:493][435]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.748299
+[2025.01.13-17.11.36:510][436]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.685331
+[2025.01.13-17.11.36:527][437]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.627835
+[2025.01.13-17.11.36:543][438]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.57671
+[2025.01.13-17.11.36:560][439]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.528264
+[2025.01.13-17.11.36:577][440]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.484534
+[2025.01.13-17.11.36:594][441]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.442218
+[2025.01.13-17.11.36:610][442]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.406992
+[2025.01.13-17.11.36:627][443]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.373077
+[2025.01.13-17.11.36:643][444]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.342102
+[2025.01.13-17.11.36:660][445]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.313045
+[2025.01.13-17.11.36:677][446]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.287178
+[2025.01.13-17.11.36:694][447]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.262789
+[2025.01.13-17.11.36:710][448]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.241549
+[2025.01.13-17.11.36:727][449]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.221315
+[2025.01.13-17.11.36:743][450]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.202997
+[2025.01.13-17.11.36:760][451]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.186024
+[2025.01.13-17.11.36:777][452]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.170531
+[2025.01.13-17.11.36:794][453]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.155715
+[2025.01.13-17.11.36:810][454]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.143253
+[2025.01.13-17.11.36:827][455]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.131045
+[2025.01.13-17.11.36:843][456]LogBlueprintUserMessages: [VehiculeMovementComponent] -0.120418
+[2025.01.13-17.11.36:860][457]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.312123
+[2025.01.13-17.11.36:877][458]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.700301
+[2025.01.13-17.11.36:894][459]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.063114
+[2025.01.13-17.11.36:911][460]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.401392
+[2025.01.13-17.11.36:927][461]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.698263
+[2025.01.13-17.11.36:944][462]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.967772
+[2025.01.13-17.11.36:960][463]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.21646
+[2025.01.13-17.11.36:977][464]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.449007
+[2025.01.13-17.11.36:994][465]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.661195
+[2025.01.13-17.11.37:012][466]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.863563
+[2025.01.13-17.11.37:027][467]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.036883
+[2025.01.13-17.11.37:043][468]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.19866
+[2025.01.13-17.11.37:060][469]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.348592
+[2025.01.13-17.11.37:077][470]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.486191
+[2025.01.13-17.11.37:093][471]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.612126
+[2025.01.13-17.11.37:110][472]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.72855
+[2025.01.13-17.11.37:127][473]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.834432
+[2025.01.13-17.11.37:144][474]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.931977
+[2025.01.13-17.11.37:160][475]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.020601
+[2025.01.13-17.11.37:177][476]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.102248
+[2025.01.13-17.11.37:194][477]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.178093
+[2025.01.13-17.11.37:210][478]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.245133
+[2025.01.13-17.11.37:227][479]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.308805
+[2025.01.13-17.11.37:244][480]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.36662
+[2025.01.13-17.11.37:260][481]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.418973
+[2025.01.13-17.11.37:277][482]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.467183
+[2025.01.13-17.11.37:294][483]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.511795
+[2025.01.13-17.11.37:310][484]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.552405
+[2025.01.13-17.11.37:327][485]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.590356
+[2025.01.13-17.11.37:343][486]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.623875
+[2025.01.13-17.11.37:360][487]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.655136
+[2025.01.13-17.11.37:377][488]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.262441
+[2025.01.13-17.11.37:394][489]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.909698
+[2025.01.13-17.11.37:410][490]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.583398
+[2025.01.13-17.11.37:427][491]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.285103
+[2025.01.13-17.11.37:443][492]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.013972
+[2025.01.13-17.11.37:460][493]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.760874
+[2025.01.13-17.11.37:477][494]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.530477
+[2025.01.13-17.11.37:493][495]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.32063
+[2025.01.13-17.11.37:511][496]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.12077
+[2025.01.13-17.11.37:527][497]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.947574
+[2025.01.13-17.11.37:544][498]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.786635
+[2025.01.13-17.11.37:560][499]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.6375
+[2025.01.13-17.11.37:577][500]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.9182
+[2025.01.13-17.11.37:594][501]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.180423
+[2025.01.13-17.11.37:610][502]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.409704
+[2025.01.13-17.11.37:627][503]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.627795
+[2025.01.13-17.11.37:644][504]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.823243
+[2025.01.13-17.11.37:660][505]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.00583
+[2025.01.13-17.11.37:677][506]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.174605
+[2025.01.13-17.11.37:694][507]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.324256
+[2025.01.13-17.11.37:710][508]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.463813
+[2025.01.13-17.11.37:727][509]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.591882
+[2025.01.13-17.11.37:744][510]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.291072
+[2025.01.13-17.11.37:760][511]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.018856
+[2025.01.13-17.11.37:777][512]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.767439
+[2025.01.13-17.11.37:794][513]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.535353
+[2025.01.13-17.11.37:810][514]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.325068
+[2025.01.13-17.11.37:827][515]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.133506
+[2025.01.13-17.11.37:844][516]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.95127
+[2025.01.13-17.11.37:861][517]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.784204
+[2025.01.13-17.11.37:877][518]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.64047
+[2025.01.13-17.11.37:894][519]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.505021
+[2025.01.13-17.11.37:910][520]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.378514
+[2025.01.13-17.11.37:927][521]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.263052
+[2025.01.13-17.11.37:944][522]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.157039
+[2025.01.13-17.11.37:960][523]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.063439
+[2025.01.13-17.11.37:977][524]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.974445
+[2025.01.13-17.11.37:994][525]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.892656
+[2025.01.13-17.11.38:011][526]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.816414
+[2025.01.13-17.11.38:027][527]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.750233
+[2025.01.13-17.11.38:043][528]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.688342
+[2025.01.13-17.11.38:060][529]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.631372
+[2025.01.13-17.11.38:077][530]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.578352
+[2025.01.13-17.11.38:093][531]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.530119
+[2025.01.13-17.11.38:110][532]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.485952
+[2025.01.13-17.11.38:127][533]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.444939
+[2025.01.13-17.11.38:144][534]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.407841
+[2025.01.13-17.11.38:161][535]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.373456
+[2025.01.13-17.11.38:177][536]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.343047
+[2025.01.13-17.11.38:193][537]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.314673
+[2025.01.13-17.11.38:210][538]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.28839
+[2025.01.13-17.11.38:227][539]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.264107
+[2025.01.13-17.11.38:244][540]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.655675
+[2025.01.13-17.11.38:260][541]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.017903
+[2025.01.13-17.11.38:277][542]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.351114
+[2025.01.13-17.11.38:293][543]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.65274
+[2025.01.13-17.11.38:310][544]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.931626
+[2025.01.13-17.11.38:327][545]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.187935
+[2025.01.13-17.11.38:344][546]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.423145
+[2025.01.13-17.11.38:360][547]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.637214
+[2025.01.13-17.11.38:377][548]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.835246
+[2025.01.13-17.11.38:394][549]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.015122
+[2025.01.13-17.11.38:410][550]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.180157
+[2025.01.13-17.11.38:427][551]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.332353
+[2025.01.13-17.11.38:444][552]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.47133
+[2025.01.13-17.11.38:461][553]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.60571
+[2025.01.13-17.11.38:477][554]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.715045
+[2025.01.13-17.11.38:493][555]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.821799
+[2025.01.13-17.11.38:511][556]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.9237
+[2025.01.13-17.11.38:527][557]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.01098
+[2025.01.13-17.11.38:544][558]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.09297
+[2025.01.13-17.11.38:560][559]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.168468
+[2025.01.13-17.11.38:577][560]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.237977
+[2025.01.13-17.11.38:594][561]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.301598
+[2025.01.13-17.11.38:610][562]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.359256
+[2025.01.13-17.11.38:627][563]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.413409
+[2025.01.13-17.11.38:644][564]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.4619
+[2025.01.13-17.11.38:660][565]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.506889
+[2025.01.13-17.11.38:677][566]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.54803
+[2025.01.13-17.11.38:693][567]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.585489
+[2025.01.13-17.11.38:710][568]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.619968
+[2025.01.13-17.11.38:727][569]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.651742
+[2025.01.13-17.11.38:744][570]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.680589
+[2025.01.13-17.11.38:760][571]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.707358
+[2025.01.13-17.11.38:778][572]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.731692
+[2025.01.13-17.11.38:794][573]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.754296
+[2025.01.13-17.11.38:810][574]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.774834
+[2025.01.13-17.11.38:827][575]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.793381
+[2025.01.13-17.11.38:843][576]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.810594
+[2025.01.13-17.11.38:860][577]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.826374
+[2025.01.13-17.11.38:877][578]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.841051
+[2025.01.13-17.11.38:894][579]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.854273
+[2025.01.13-17.11.38:910][580]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.453956
+[2025.01.13-17.11.38:927][581]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.079517
+[2025.01.13-17.11.38:944][582]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.742111
+[2025.01.13-17.11.38:960][583]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.431363
+[2025.01.13-17.11.38:977][584]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.143386
+[2025.01.13-17.11.38:994][585]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.879305
+[2025.01.13-17.11.39:010][586]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.639887
+[2025.01.13-17.11.39:027][587]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.422219
+[2025.01.13-17.11.39:044][588]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.219999
+[2025.01.13-17.11.39:060][589]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.034538
+[2025.01.13-17.11.39:077][590]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.865167
+[2025.01.13-17.11.39:093][591]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.711452
+[2025.01.13-17.11.39:110][592]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.568871
+[2025.01.13-17.11.39:127][593]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.435218
+[2025.01.13-17.11.39:143][594]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.318683
+[2025.01.13-17.11.39:160][595]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.208523
+[2025.01.13-17.11.39:177][596]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.106913
+[2025.01.13-17.11.39:194][597]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.014131
+[2025.01.13-17.11.39:210][598]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.929983
+[2025.01.13-17.11.39:227][599]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.852699
+[2025.01.13-17.11.39:244][600]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.781774
+[2025.01.13-17.11.39:260][601]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.71657
+[2025.01.13-17.11.39:277][602]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.656235
+[2025.01.13-17.11.39:294][603]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.601906
+[2025.01.13-17.11.39:310][604]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.552205
+[2025.01.13-17.11.39:327][605]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.505509
+[2025.01.13-17.11.39:344][606]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.463542
+[2025.01.13-17.11.39:370][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.13-17.11.39:370][606]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrototypingMap
+[2025.01.13-17.11.39:370][606]LogWorld: UWorld::CleanupWorld for PrototypingMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-17.11.39:370][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-17.11.39:370][606]LogWorldMetrics: [Deinitialize]
+[2025.01.13-17.11.39:370][606]LogWorldMetrics: [Clear]
+[2025.01.13-17.11.39:379][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.13-17.11.39:381][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-17.11.39:385][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.13-17.11.39:385][606]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.13-17.11.39:431][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.13-17.11.39:433][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.13-17.11.39:471][607]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.01.13-17.11.41:054][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-17.11.41:194][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.01.13-17.11.41:198][703]LogSavePackage: Moving output files for package: /Game/Maps/PrototypingMap
+[2025.01.13-17.11.41:199][703]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/PrototypingMap9AD83B87B723441794B93F0085D1F884.tmp' to '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Maps/PrototypingMap.umap'
+[2025.01.13-17.11.41:200][703]LogFileHelpers: Saving map 'PrototypingMap' took 0.016
+[2025.01.13-17.11.41:248][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.859 ms
+[2025.01.13-17.11.41:358][703]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-17.11.41:358][703]LogContentValidation: Enabled validators:
+[2025.01.13-17.11.41:358][703]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-17.11.41:358][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-17.11.41:358][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-17.11.41:358][703]LogContentValidation: Display: Validating asset /Game/Maps/PrototypingMap.PrototypingMap
+[2025.01.13-17.11.41:358][703]AssetCheck: /Game/Maps/PrototypingMap Validating asset
+[2025.01.13-17.11.53:592][435]LogContentBrowser: Attempting asset rename: Maps -> Levels
+[2025.01.13-17.11.58:574][435]LogSlate: Window 'Message' being destroyed
+[2025.01.13-17.11.58:615][435]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+PrototypingMap
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.01.13-17.11.58:630][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-17.11.58:784][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.01.13-17.11.58:789][435]LogSavePackage: Moving output files for package: /Game/Levels/PrototypingMap
+[2025.01.13-17.11.58:789][435]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/PrototypingMapD4818B93831A4C75BF10F43AB9EDB929.tmp' to '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Levels/PrototypingMap.umap'
+[2025.01.13-17.11.58:791][435]LogFileHelpers: Saving map 'PrototypingMap' took 0.015
+[2025.01.13-17.11.58:792][435]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/PrototypingMap] ([1] browsable assets)...
+[2025.01.13-17.11.58:792][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PrototypingMap]
+[2025.01.13-17.11.58:792][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrototypingMap" FILE="../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Maps/PrototypingMap.umap" SILENT=true
+[2025.01.13-17.11.58:792][435]LogSavePackage: Moving output files for package: /Game/Maps/PrototypingMap
+[2025.01.13-17.11.58:792][435]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/PrototypingMap7F33AEB69AFD4018A7AD404B35D1F2CD.tmp' to '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Maps/PrototypingMap.umap'
+[2025.01.13-17.11.58:867][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.943 ms (total: 430.802 ms)
+[2025.01.13-17.11.59:005][435]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.13-17.11.59:005][435]LogContentValidation: Enabled validators:
+[2025.01.13-17.11.59:005][435]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-17.11.59:006][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-17.11.59:006][435]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-17.11.59:006][435]LogContentValidation: Display: Validating asset /Game/Levels/PrototypingMap.PrototypingMap
+[2025.01.13-17.11.59:006][435]AssetCheck: /Game/Levels/PrototypingMap Validating asset
+[2025.01.13-17.11.59:006][435]LogContentValidation: Display: Validating asset /Game/Maps/PrototypingMap.PrototypingMap
+[2025.01.13-17.11.59:006][435]AssetCheck: /Game/Maps/PrototypingMap Validating asset
+[2025.01.13-17.12.05:970][629]LogSlate: Window 'Redirector Update Report' being destroyed
+[2025.01.13-17.12.06:011][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.01.13-17.12.06:029][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.01.13-17.12.06:033][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.01.13-17.12.06:038][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.01.13-17.12.12:237][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.01.13-17.12.12:238][995]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/PrototypingMap.PrototypingMap
+[2025.01.13-17.12.12:238][995]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Levels/PrototypingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.13-17.12.12:244][995]LogWorld: UWorld::CleanupWorld for PrototypingMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-17.12.12:244][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-17.12.12:244][995]LogWorldMetrics: [Deinitialize]
+[2025.01.13-17.12.12:244][995]LogWorldMetrics: [Clear]
+[2025.01.13-17.12.12:248][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.13-17.12.12:249][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.13-17.12.12:252][995]LogAudio: Display: Audio Device (ID: 1) registered with world 'PrototypingMap'.
+[2025.01.13-17.12.12:252][995]LogWorldMetrics: [Initialize]
+[2025.01.13-17.12.12:450][995]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.13-17.12.12:455][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.13-17.12.12:456][995]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.13-17.12.12:456][995]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,057ms to complete.
+[2025.01.13-17.12.15:575][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.13-17.12.15:585][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.13-17.12.15:585][179]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PrototypingMap
+[2025.01.13-17.12.15:587][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001491s)
+[2025.01.13-17.12.15:587][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PrototypingMap.PrototypingMap to /Game/Levels/UEDPIE_0_PrototypingMap.PrototypingMap (0.001524s)
+[2025.01.13-17.12.15:591][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.01.13-17.12.15:592][179]LogWorldMetrics: [Initialize]
+[2025.01.13-17.12.15:593][179]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2025.01.13-17.12.15:619][179]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.13-17.12.15:619][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.13-17.12.15:619][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.13-17.12.15:619][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.13-17.12.15:619][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.13-17.12.15:619][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.13-17.12.15:619][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.13-17.12.15:619][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.13-17.12.15:619][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.13-17.12.15:619][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.13-17.12.15:619][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.13-17.12.15:619][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.13-17.12.15:619][179]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2025.01.13-17.12.15:619][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2025.01.13-17.12.15:881][179]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2025.01.13-17.12.15:891][179]LogAudioMixer: Display: Using Audio Hardware Device Comet Lake PCH cAVS Speaker + Headphones
+[2025.01.13-17.12.15:891][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.13-17.12.15:891][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.13-17.12.15:891][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.13-17.12.15:892][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=3
+[2025.01.13-17.12.15:892][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.13-17.12.15:892][179]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.13-17.12.15:892][179]LogAudio: Display: Audio Device (ID: 3) registered with world 'PrototypingMap'.
+[2025.01.13-17.12.15:892][179]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.13-17.12.15:893][179]LogLoad: Game class is 'BP_GameMode_C'
+[2025.01.13-17.12.15:894][179]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PrototypingMap.PrototypingMap up for play (max tick rate 0) at 2025.01.13-18.12.15
+[2025.01.13-17.12.15:894][179]LogWorld: Bringing up level for play took: 0.000708
+[2025.01.13-17.12.15:895][179]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.01.13-17.12.15:920][179]PIE: Server logged in
+[2025.01.13-17.12.15:920][179]PIE: Play in editor total start time 0,343 seconds.
+[2025.01.13-17.12.15:921][179]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.15:928][180]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.15:952][181]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.15:964][182]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.15:972][183]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.15:981][184]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.15:989][185]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:002][186]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:020][187]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:036][188]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:053][189]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:069][190]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:087][191]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:103][192]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:119][193]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:136][194]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:153][195]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:169][196]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:186][197]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:202][198]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:219][199]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:236][200]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:254][201]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:269][202]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:286][203]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:303][204]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:319][205]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:336][206]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:352][207]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:369][208]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:386][209]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:402][210]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:419][211]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.0
+[2025.01.13-17.12.16:436][212]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.419399
+[2025.01.13-17.12.16:452][213]LogBlueprintUserMessages: [VehiculeMovementComponent] 0.798104
+[2025.01.13-17.12.16:469][214]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.156362
+[2025.01.13-17.12.16:486][215]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.477485
+[2025.01.13-17.12.16:504][216]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.785474
+[2025.01.13-17.12.16:520][217]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.042886
+[2025.01.13-17.12.16:536][218]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.286756
+[2025.01.13-17.12.16:553][219]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.511261
+[2025.01.13-17.12.16:569][220]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.715769
+[2025.01.13-17.12.16:586][221]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.907708
+[2025.01.13-17.12.16:603][222]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.082666
+[2025.01.13-17.12.16:619][223]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.241359
+[2025.01.13-17.12.16:636][224]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.391175
+[2025.01.13-17.12.16:653][225]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.522471
+[2025.01.13-17.12.16:669][226]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.645866
+[2025.01.13-17.12.16:686][227]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.760115
+[2025.01.13-17.12.16:703][228]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.861939
+[2025.01.13-17.12.16:720][229]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.958298
+[2025.01.13-17.12.16:737][230]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.046403
+[2025.01.13-17.12.16:753][231]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.127171
+[2025.01.13-17.12.16:770][232]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.198385
+[2025.01.13-17.12.16:786][233]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.264507
+[2025.01.13-17.12.16:803][234]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.325871
+[2025.01.13-17.12.16:820][235]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.383339
+[2025.01.13-17.12.16:836][236]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.434039
+[2025.01.13-17.12.16:853][237]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.481179
+[2025.01.13-17.12.16:870][238]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.524132
+[2025.01.13-17.12.16:886][239]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.56326
+[2025.01.13-17.12.16:903][240]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.599421
+[2025.01.13-17.12.16:919][241]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.632926
+[2025.01.13-17.12.16:937][242]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.664634
+[2025.01.13-17.12.16:953][243]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.691716
+[2025.01.13-17.12.16:969][244]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.717204
+[2025.01.13-17.12.16:986][245]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.740777
+[2025.01.13-17.12.17:003][246]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.762693
+[2025.01.13-17.12.17:020][247]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.782111
+[2025.01.13-17.12.17:036][248]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.800428
+[2025.01.13-17.12.17:053][249]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.81742
+[2025.01.13-17.12.17:070][250]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.832424
+[2025.01.13-17.12.17:087][251]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.84652
+[2025.01.13-17.12.17:103][252]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.85905
+[2025.01.13-17.12.17:119][253]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.870718
+[2025.01.13-17.12.17:136][254]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.881606
+[2025.01.13-17.12.17:153][255]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.891441
+[2025.01.13-17.12.17:169][256]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.900408
+[2025.01.13-17.12.17:186][257]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.908821
+[2025.01.13-17.12.17:203][258]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.916428
+[2025.01.13-17.12.17:219][259]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.923321
+[2025.01.13-17.12.17:236][260]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.929674
+[2025.01.13-17.12.17:253][261]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.935576
+[2025.01.13-17.12.17:269][262]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.940898
+[2025.01.13-17.12.17:286][263]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.945848
+[2025.01.13-17.12.17:303][264]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.950355
+[2025.01.13-17.12.17:319][265]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.954493
+[2025.01.13-17.12.17:336][266]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.958345
+[2025.01.13-17.12.17:353][267]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.961768
+[2025.01.13-17.12.17:369][268]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.964955
+[2025.01.13-17.12.17:386][269]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.967902
+[2025.01.13-17.12.17:403][270]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.970546
+[2025.01.13-17.12.17:420][271]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.973106
+[2025.01.13-17.12.17:436][272]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.568546
+[2025.01.13-17.12.17:453][273]LogBlueprintUserMessages: [VehiculeMovementComponent] 4.19389
+[2025.01.13-17.12.17:469][274]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.844084
+[2025.01.13-17.12.17:486][275]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.526555
+[2025.01.13-17.12.17:503][276]LogBlueprintUserMessages: [VehiculeMovementComponent] 3.217081
+[2025.01.13-17.12.17:519][277]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.963938
+[2025.01.13-17.12.17:536][278]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.711974
+[2025.01.13-17.12.17:552][279]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.489568
+[2025.01.13-17.12.17:570][280]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.276597
+[2025.01.13-17.12.17:586][281]LogBlueprintUserMessages: [VehiculeMovementComponent] 2.085795
+[2025.01.13-17.12.17:603][282]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.913199
+[2025.01.13-17.12.17:620][283]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.752209
+[2025.01.13-17.12.17:636][284]LogBlueprintUserMessages: [VehiculeMovementComponent] 1.609481
+[2025.01.13-17.12.17:668][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.13-17.12.17:668][284]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PrototypingMap
+[2025.01.13-17.12.17:668][284]LogWorld: UWorld::CleanupWorld for PrototypingMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-17.12.17:668][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-17.12.17:668][284]LogWorldMetrics: [Deinitialize]
+[2025.01.13-17.12.17:668][284]LogWorldMetrics: [Clear]
+[2025.01.13-17.12.17:671][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.13-17.12.17:673][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-17.12.17:676][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.13-17.12.17:677][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.13-17.12.17:727][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.13-17.12.17:768][285]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.01.13-17.12.41:824][709]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Core/BP_Vehicule.BP_Vehicule
+[2025.01.13-17.12.42:795][709]LogSlate: Took 0.000044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.01.13-17.12.44:873][821]LogSlate: Window 'BP_Vehicule' being destroyed
+[2025.01.13-17.12.52:905][298]LogContentBrowser: Attempting asset rename: BP_Vehicule -> BP_VehiculeBase
+[2025.01.13-17.12.52:947][298]LogMetaData: Removing '/Game/Blueprints/Core/BP_VehiculeBase.BP_VehiculeBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Core/BP_Vehicule.PackageMetaData'
+[2025.01.13-17.12.52:947][298]LogMetaData: Removing '/Game/Blueprints/Core/BP_VehiculeBase.BP_VehiculeBase_C' ref from Metadata '/Game/Blueprints/Core/BP_Vehicule.PackageMetaData'
+[2025.01.13-17.12.52:947][298]LogMetaData: Removing '/Game/Blueprints/Core/BP_VehiculeBase.BP_VehiculeBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Core/BP_Vehicule.PackageMetaData'
+[2025.01.13-17.12.52:947][298]LogMetaData: Removing '/Game/Blueprints/Core/BP_VehiculeBase.SKEL_BP_VehiculeBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Core/BP_Vehicule.PackageMetaData'
+[2025.01.13-17.12.52:947][298]LogMetaData: Removing '/Game/Blueprints/Core/BP_VehiculeBase.SKEL_BP_VehiculeBase_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Core/BP_Vehicule.PackageMetaData'
+[2025.01.13-17.12.52:947][298]LogMetaData: Removing '/Game/Blueprints/Core/BP_VehiculeBase.SKEL_BP_VehiculeBase_C' ref from Metadata '/Game/Blueprints/Core/BP_Vehicule.PackageMetaData'
+[2025.01.13-17.12.52:947][298]LogMetaData: Removing '/Game/Blueprints/Core/BP_VehiculeBase.BP_VehiculeBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Core/BP_Vehicule.PackageMetaData'
+[2025.01.13-17.12.52:949][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-17.12.53:064][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/BP_GameMode] ([2] browsable assets)...
+[2025.01.13-17.12.53:064][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/BP_GameMode]
+[2025.01.13-17.12.53:064][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/BP_GameMode" FILE="../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/BP_GameMode.uasset" SILENT=true
+[2025.01.13-17.12.53:068][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/BP_GameMode
+[2025.01.13-17.12.53:068][298]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/BP_GameMode5AA175F427BC454A8CFF9E45CA09706A.tmp' to '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/BP_GameMode.uasset'
+[2025.01.13-17.12.53:069][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Core/BP_VehiculeBase] ([2] browsable assets)...
+[2025.01.13-17.12.53:069][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/BP_VehiculeBase]
+[2025.01.13-17.12.53:069][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/BP_VehiculeBase" FILE="../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/BP_VehiculeBase.uasset" SILENT=true
+[2025.01.13-17.12.53:069][298]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Core/BP_VehiculeBase does not exist, will not scan.
+[2025.01.13-17.12.53:075][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/BP_VehiculeBase
+[2025.01.13-17.12.53:075][298]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/BP_VehiculeBase8AB336A57F224747B25F0AC105180BED.tmp' to '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/BP_VehiculeBase.uasset'
+[2025.01.13-17.12.53:129][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.524 ms (total: 611.327 ms)
+[2025.01.13-17.12.53:154][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.13-17.12.53:169][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.01.13-17.12.53:183][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.01.13-17.12.53:305][298]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.13-17.12.53:305][298]LogContentValidation: Enabled validators:
+[2025.01.13-17.12.53:305][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-17.12.53:305][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-17.12.53:305][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-17.12.53:305][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Core/BP_GameMode.BP_GameMode
+[2025.01.13-17.12.53:305][298]AssetCheck: /Game/Blueprints/Core/BP_GameMode Validating asset
+[2025.01.13-17.12.53:305][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Core/BP_VehiculeBase.BP_VehiculeBase
+[2025.01.13-17.12.53:305][298]AssetCheck: /Game/Blueprints/Core/BP_VehiculeBase Validating asset
+[2025.01.13-17.12.56:261][446]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.13-17.12.56:280][446]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.13-17.12.56:299][447]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.13-17.13.04:051][914]LogContentBrowser: Attempting asset rename: NewFolder -> Vehicule
+[2025.01.13-17.13.04:052][914]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.13-17.13.07:979][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeBase.BP_VehiculeBase_C' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeBase.PackageMetaData'
+[2025.01.13-17.13.07:979][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeBase.BP_VehiculeBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeBase.PackageMetaData'
+[2025.01.13-17.13.07:979][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeBase.SKEL_BP_VehiculeBase_C' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeBase.PackageMetaData'
+[2025.01.13-17.13.07:979][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeBase.SKEL_BP_VehiculeBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeBase.PackageMetaData'
+[2025.01.13-17.13.07:979][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeBase.SKEL_BP_VehiculeBase_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeBase.PackageMetaData'
+[2025.01.13-17.13.07:979][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeBase.BP_VehiculeBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeBase.PackageMetaData'
+[2025.01.13-17.13.07:979][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeBase.BP_VehiculeBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeBase.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.BP_VehiculeMovementComponent_C' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.BP_VehiculeMovementComponent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.BP_VehiculeMovementComponent:GetVelocity.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.BP_VehiculeMovementComponent:GetCurrentSpeed.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.SKEL_BP_VehiculeMovementComponent_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.SKEL_BP_VehiculeMovementComponent_C:Accelerate' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.SKEL_BP_VehiculeMovementComponent_C:StopAcclerating' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.SKEL_BP_VehiculeMovementComponent_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.SKEL_BP_VehiculeMovementComponent_C:Turn' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.SKEL_BP_VehiculeMovementComponent_C' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.BP_VehiculeMovementComponent_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.BP_VehiculeMovementComponent_C:Turn' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogMetaData: Removing '/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.BP_VehiculeMovementComponent_C:Accelerate' ref from Metadata '/Game/Blueprints/Core/BP_VehiculeMovementComponent.PackageMetaData'
+[2025.01.13-17.13.07:981][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-17.13.08:096][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Core/Vehicule/BP_VehiculeBase] ([2] browsable assets)...
+[2025.01.13-17.13.08:096][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Vehicule/BP_VehiculeBase]
+[2025.01.13-17.13.08:101][133]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Vehicule/BP_VehiculeBase
+[2025.01.13-17.13.08:101][133]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/BP_VehiculeBaseD5654075A85641419859AD3725CC1042.tmp' to '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/Vehicule/BP_VehiculeBase.uasset'
+[2025.01.13-17.13.08:107][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent] ([2] browsable assets)...
+[2025.01.13-17.13.08:107][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent]
+[2025.01.13-17.13.08:123][133]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent
+[2025.01.13-17.13.08:123][133]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Saved/BP_VehiculeMovementComponent1717F32AC8954851A2816F8EDCB3E2E9.tmp' to '../../../../../Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.uasset'
+[2025.01.13-17.13.08:160][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.600 ms (total: 789.927 ms)
+[2025.01.13-17.13.08:191][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.13-17.13.08:207][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.13-17.13.08:222][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.13-17.13.08:240][133]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.13-17.13.08:240][133]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.13-17.13.08:240][133]LogContentValidation: Enabled validators:
+[2025.01.13-17.13.08:240][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-17.13.08:240][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-17.13.08:240][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-17.13.08:240][133]LogContentValidation: Display: Validating asset /Game/Blueprints/Core/Vehicule/BP_VehiculeBase.BP_VehiculeBase
+[2025.01.13-17.13.08:240][133]AssetCheck: /Game/Blueprints/Core/Vehicule/BP_VehiculeBase Validating asset
+[2025.01.13-17.13.08:240][133]LogContentValidation: Display: Validating asset /Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.BP_VehiculeMovementComponent
+[2025.01.13-17.13.08:240][133]AssetCheck: /Game/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent Validating asset
+[2025.01.13-17.13.09:506][207]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.01.13-17.13.09:506][207]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
