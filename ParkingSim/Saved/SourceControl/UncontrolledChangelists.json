@@ -5,14 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Maps/PrototypingMap.umap",
-				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Levels/PrototypingMap.umap",
-				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/BP_GameMode.uasset",
-				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/BP_VehiculeBase.uasset",
-				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/BP_Vehicule.uasset",
-				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/Vehicule/BP_VehiculeBase.uasset",
-				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/Vehicule/BP_VehiculeMovementComponent.uasset",
-				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/BP_VehiculeMovementComponent.uasset"
+				"/home/activdesign/Documents/Unreal Projects/ParkingSimProject/ParkingSim/Content/Blueprints/Core/Vehicule/BP_VehiculeBase.uasset"
 			]
 		}
 	]
